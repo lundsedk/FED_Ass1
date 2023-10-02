@@ -2,6 +2,7 @@
 using Microsoft.Extensions.Logging;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
+using CommunityToolkit.Maui;
 using CommunityToolkit.Mvvm.Input;
 
 // Lundse: Jeg har prøvet at gå ud fra:
@@ -9,46 +10,6 @@ using CommunityToolkit.Mvvm.Input;
 
 namespace FED_Ass1
 {
-
-    public class Account // Either a creditor or debtor
-    {
-        public string Name;
-        public int Balance; // Positive if user is owed money from Account (ie. Account is debtor)
-    }
-
-    public class User
-    {
-        public string Name;
-        public List<Account> Accounts;
-    }
-
-
-    namespace FED_Ass1.ViewModel {
-
-        // why not [ObservableObject] decorator ???
-        public partial class AccountsViewModel : ObservableObject
-        {
-            [ObservableProperty]
-            private List<Account> _accounts;
-                // <ListView ItemSource="{Binding _accounts}">
-
-            [RelayCommand]
-            public void Test()
-                //should generate the testCommand (<Button ... Command="{Binding testCommand}"/>)
-            {
-
-            }
-
-        }
-
-
-
-    }
-
-
-
-
-
     public static class MauiProgram
     {
         public static MauiApp CreateMauiApp()
@@ -60,10 +21,10 @@ namespace FED_Ass1
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
-                });
+                })
+                .UseMauiCommunityToolkit();
 
-
-            return builder.Build();
+			return builder.Build();
         }
     }
 }
