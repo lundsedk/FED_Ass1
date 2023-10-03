@@ -36,6 +36,13 @@
                 Clicked="OnCounterClicked"
                 HorizontalOptions="Center" />
 
+            <Button
+                x:Name="TestBtn"
+                Text="{Binding GlobalTest, Mode=OneWay}"
+                SemanticProperties.Hint="Kristians testknap"
+                Command="{Binding TestBtnClick}"
+                HorizontalOptions="Center" />
+
         </VerticalStackLayout>
     </ScrollView>
 

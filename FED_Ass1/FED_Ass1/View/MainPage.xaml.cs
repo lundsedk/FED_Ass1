@@ -12,9 +12,12 @@ namespace FED_Ass1.View
 		{
 			InitializeComponent();
 			BindingContext = vm;
-		}
+            
 
-		private void OnCounterClicked(object sender, EventArgs e)
+        }
+
+
+        private void OnCounterClicked(object sender, EventArgs e)
         {
             count++;
 
@@ -23,7 +26,14 @@ namespace FED_Ass1.View
             else
                 CounterBtn.Text = $"Clicked {count} times";
 
-            SemanticScreenReader.Announce(CounterBtn.Text);
+            Console.WriteLine("Hello from OnCounterClicked!");
         }
-	}
+
+        private void OnTestClicked(object sender, EventArgs e)
+        {
+            //TestBtn.Text = "clicked";
+            Console.WriteLine("Hello from OnTestClicked!");
+
+        }
+    }
 }
