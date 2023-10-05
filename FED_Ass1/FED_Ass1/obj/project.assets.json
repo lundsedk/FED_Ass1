@@ -9,12 +9,12 @@
         },
         "compile": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -22,12 +22,12 @@
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.Core.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.Core.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -51,12 +51,12 @@
         "type": "package",
         "compile": {
           "lib/net6.0-android31.0/GoogleGson.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net6.0-android31.0/GoogleGson.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -2001,12 +2001,12 @@
         },
         "compile": {
           "lib/net6.0-android31.0/Xamarin.Google.Crypto.Tink.Android.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net6.0-android31.0/Xamarin.Google.Crypto.Tink.Android.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -2166,12 +2166,12 @@
         },
         "compile": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -2179,12 +2179,12 @@
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.Core.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.Core.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -2208,12 +2208,12 @@
         "type": "package",
         "compile": {
           "lib/net6.0-android31.0/GoogleGson.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net6.0-android31.0/GoogleGson.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -4158,12 +4158,12 @@
         },
         "compile": {
           "lib/net6.0-android31.0/Xamarin.Google.Crypto.Tink.Android.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net6.0-android31.0/Xamarin.Google.Crypto.Tink.Android.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -4323,12 +4323,12 @@
         },
         "compile": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -4336,12 +4336,12 @@
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.Core.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.Core.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -4365,12 +4365,12 @@
         "type": "package",
         "compile": {
           "lib/net6.0-android31.0/GoogleGson.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net6.0-android31.0/GoogleGson.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -6315,12 +6315,12 @@
         },
         "compile": {
           "lib/net6.0-android31.0/Xamarin.Google.Crypto.Tink.Android.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net6.0-android31.0/Xamarin.Google.Crypto.Tink.Android.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -6480,12 +6480,12 @@
         },
         "compile": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -6493,12 +6493,12 @@
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.Core.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.Core.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -6522,12 +6522,12 @@
         "type": "package",
         "compile": {
           "lib/net6.0-android31.0/GoogleGson.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net6.0-android31.0/GoogleGson.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -8472,12 +8472,12 @@
         },
         "compile": {
           "lib/net6.0-android31.0/Xamarin.Google.Crypto.Tink.Android.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net6.0-android31.0/Xamarin.Google.Crypto.Tink.Android.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -8637,12 +8637,12 @@
         },
         "compile": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -8650,12 +8650,12 @@
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.Core.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.Core.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -8679,12 +8679,12 @@
         "type": "package",
         "compile": {
           "lib/net6.0-android31.0/GoogleGson.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net6.0-android31.0/GoogleGson.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -10629,12 +10629,12 @@
         },
         "compile": {
           "lib/net6.0-android31.0/Xamarin.Google.Crypto.Tink.Android.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net6.0-android31.0/Xamarin.Google.Crypto.Tink.Android.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -10794,12 +10794,12 @@
         },
         "compile": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -10807,12 +10807,12 @@
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.Core.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.Core.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -10836,12 +10836,12 @@
         "type": "package",
         "compile": {
           "lib/net6.0-android31.0/GoogleGson.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net6.0-android31.0/GoogleGson.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -12786,12 +12786,12 @@
         },
         "compile": {
           "lib/net6.0-android31.0/Xamarin.Google.Crypto.Tink.Android.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net6.0-android31.0/Xamarin.Google.Crypto.Tink.Android.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -12951,12 +12951,12 @@
         },
         "compile": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -12964,12 +12964,12 @@
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.Core.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.Core.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -12993,12 +12993,12 @@
         "type": "package",
         "compile": {
           "lib/net6.0-android31.0/GoogleGson.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net6.0-android31.0/GoogleGson.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -14943,12 +14943,12 @@
         },
         "compile": {
           "lib/net6.0-android31.0/Xamarin.Google.Crypto.Tink.Android.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net6.0-android31.0/Xamarin.Google.Crypto.Tink.Android.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -15108,12 +15108,12 @@
         },
         "compile": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -15121,12 +15121,12 @@
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.Core.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net7.0-android33.0/CommunityToolkit.Maui.Core.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -15150,12 +15150,12 @@
         "type": "package",
         "compile": {
           "lib/net6.0-android31.0/GoogleGson.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net6.0-android31.0/GoogleGson.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -17100,12 +17100,12 @@
         },
         "compile": {
           "lib/net6.0-android31.0/Xamarin.Google.Crypto.Tink.Android.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         },
         "runtime": {
           "lib/net6.0-android31.0/Xamarin.Google.Crypto.Tink.Android.dll": {
-            "related": ".xml;.aar"
+            "related": ".aar;.xml"
           }
         }
       },
@@ -31598,24 +31598,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\olese\\.nuget\\packages\\": {},
+    "C:\\Users\\under\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\olese\\Documents\\VisualStudio2022\\FED\\FED_Ass1\\FED_Ass1\\FED_Ass1\\FED_Ass1.csproj",
+      "projectUniqueName": "C:\\Home\\2a - Softwaretek\\SW4FED - Front-end Design\\Assignment 1\\FED_ASS1\\FED_Ass1\\FED_Ass1\\FED_Ass1.csproj",
       "projectName": "FED_Ass1",
-      "projectPath": "C:\\Users\\olese\\Documents\\VisualStudio2022\\FED\\FED_Ass1\\FED_Ass1\\FED_Ass1\\FED_Ass1.csproj",
-      "packagesPath": "C:\\Users\\olese\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\olese\\Documents\\VisualStudio2022\\FED\\FED_Ass1\\FED_Ass1\\FED_Ass1\\obj\\",
+      "projectPath": "C:\\Home\\2a - Softwaretek\\SW4FED - Front-end Design\\Assignment 1\\FED_ASS1\\FED_Ass1\\FED_Ass1\\FED_Ass1.csproj",
+      "packagesPath": "C:\\Users\\under\\.nuget\\packages\\",
+      "outputPath": "C:\\Home\\2a - Softwaretek\\SW4FED - Front-end Design\\Assignment 1\\FED_ASS1\\FED_Ass1\\FED_Ass1\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\olese\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\under\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -31787,7 +31787,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       },
       "net7.0-ios16.1": {
         "targetAlias": "net7.0-ios",
@@ -31866,7 +31866,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       },
       "net7.0-maccatalyst16.1": {
         "targetAlias": "net7.0-maccatalyst",
@@ -31946,7 +31946,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       },
       "net7.0-windows10.0.19041": {
         "targetAlias": "net7.0-windows10.0.19041.0",
@@ -32021,11 +32021,11 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-            "version": "[7.0.10, 7.0.10]"
+            "version": "[7.0.11, 7.0.11]"
           },
           {
             "name": "Microsoft.NETCore.App.Runtime.win-x64",
-            "version": "[7.0.10, 7.0.10]"
+            "version": "[7.0.11, 7.0.11]"
           },
           {
             "name": "Microsoft.Windows.SDK.NET.Ref",
@@ -32033,7 +32033,7 @@
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-            "version": "[7.0.10, 7.0.10]"
+            "version": "[7.0.11, 7.0.11]"
           }
         ],
         "frameworkReferences": {
@@ -32053,7 +32053,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

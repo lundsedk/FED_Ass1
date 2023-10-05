@@ -21,9 +21,10 @@ namespace FED_Ass1.ViewModel
 			// = new Command(async () => await Shell.Current.GoToAsync(nameof(AddDebitor)));
 		}
 
-		public ObservableCollection<DebtBook> DebtBook { get; set; } = new();
+		public ObservableCollection<DebtBook> Debtors { get; set; } = new();
+        public ObservableCollection<Transaction> Transactions { get; set; } = new();
 
-		private readonly Database _database;
+        private readonly Database _database;
 
 		[RelayCommand]
 		private async Task GoToAddDeb()
