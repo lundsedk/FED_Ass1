@@ -16,11 +16,6 @@ namespace FED_Ass1.Model
 		public int Id { get; set; }
 		public string Name { get; set; }
 		public int Balance { get; set; }
-
-		//add either
-		    //a list of transactions - kind of against the db idea
-			//another table of transactions, redo the manytoone stuff, etc.
-			    //possible without foreignkey, etc...
     }
 
     public class Transaction
