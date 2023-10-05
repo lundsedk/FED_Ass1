@@ -5,12 +5,24 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:FED_Ass1"
     xmlns:views="clr-namespace:FED_Ass1.View"
-    Shell.FlyoutBehavior="Disabled">
-
-    <ShellContent 
-        Title="Mainpage"
+    >
+    <ShellContent
+        Title="Home"
         ContentTemplate="{DataTemplate views:MainPage}"
-        Route="MainPage"/>
+        Route="MainPage" />
+
+    <TabBar>
+        <Tab Title="AddDebitor">
+            <ShellContent
+                ContentTemplate="{DataTemplate views:AddDebitor}"
+                Route="AddDebitors" />
+        </Tab>
+        <Tab Title="ListDebitors">
+            <ShellContent
+                ContentTemplate="{DataTemplate views:ListDebitors}"
+                Route="ListDebitors" />
+        </Tab>
+    </TabBar>
 </Shell>
     
     

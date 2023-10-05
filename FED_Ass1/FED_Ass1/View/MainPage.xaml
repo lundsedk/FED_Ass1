@@ -21,7 +21,7 @@
             <Button
                Text="Add New Debitor"
                 SemanticProperties.Hint="Add New Debitor"
-                Command="{Binding AddDebitorCommand}"
+                Command="{Binding GoToAddDebCommand}"
                 HorizontalOptions="Center" />
 
         </VerticalStackLayout>

@@ -7,7 +7,6 @@ public partial class AppShell : Shell
 	public AppShell()
 	{
 		InitializeComponent();
-		Routing.RegisterRoute("addDebitor", typeof(AddDebitor));
-		Routing.RegisterRoute("ListDebitors", typeof(ListDebitors));
+
 	}
 }

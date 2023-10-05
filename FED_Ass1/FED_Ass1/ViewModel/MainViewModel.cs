@@ -17,17 +17,18 @@ namespace FED_Ass1.ViewModel
         public MainViewModel()
 		{
 			_database = new Database();
-			// Tilføj mere her
+			// = new Command(async () => await Shell.Current.GoToAsync(nameof(AddDebitor)));
 		}
 
 		public ObservableCollection<DebtBook> DebtBook { get; set; } = new();
 
 		private readonly Database _database;
 
-        //[RelayCommand]
-		//private async void AddDebitor(object sender, EventArgs e)
-		//{
-		//	await Shell.Current.GoToAsync("addDebitor", DebtBook);
-		//}
-    }
+		[RelayCommand]
+		private async Task GoToAddDeb()
+		{
+			await Shell.Current.GoToAsync("//AddDebitor");
+		}
+
+	}
 }
