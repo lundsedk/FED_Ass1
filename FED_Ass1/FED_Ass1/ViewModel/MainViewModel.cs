@@ -23,19 +23,10 @@ namespace FED_Ass1.ViewModel
 
 		private readonly Database _database;
 
-		//Kristian's test-hejs
-        [ObservableProperty]
-        public uint _globalTest = 18;
-        //GlobalTest is the name of the "generated property" (https://learn.microsoft.com/en-us/dotnet/communitytoolkit/mvvm/generators/observableproperty)
-
-
         [RelayCommand]
-        void TestBtnClick()
+        void AddDebitor()
         {
-            GlobalTest++;
-            GlobalTest = 20;
-            Console.WriteLine("Hello from TestBtnClick!");
-            //TestBtn.Text = $"{GlobalTest}"; 
+             
         }
     }
 }
