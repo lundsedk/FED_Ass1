@@ -6,11 +6,12 @@ using System.Runtime.CompilerServices;
 using System.Windows.Input;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
+using FED_Ass1.View;
 
 namespace FED_Ass1.ViewModel
 {
-	[ObservableObject]
-	public partial class MainViewModel
+	
+	public partial class MainViewModel : ObservableObject
     //hvorfor ikke " : INotifyPropertyChanged" - er det "inkluderet" i ObservableObject?
     {
         public MainViewModel()
@@ -23,10 +24,10 @@ namespace FED_Ass1.ViewModel
 
 		private readonly Database _database;
 
-        [RelayCommand]
-        void AddDebitor()
-        {
-             
-        }
+        //[RelayCommand]
+		//private async void AddDebitor(object sender, EventArgs e)
+		//{
+		//	await Shell.Current.GoToAsync("addDebitor", DebtBook);
+		//}
     }
 }

@@ -2,8 +2,27 @@
 
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="FED_Ass1.View.AddDebitor">
+             x:Class="FED_Ass1.View.AddDebitor"
+             Title="AddDebitor">
     <ContentPage.Content>
+        <ScrollView>
+            <VerticalStackLayout
+                Spacing="25"
+                Padding="30,0"
+                VerticalOptions="Center">
+
+
+                <Label
+                    Text="Add Debitor"
+                    SemanticProperties.HeadingLevel="Level1"
+                    FontSize="32"
+                    HorizontalOptions="Center" />
+
+
+                
+
+            </VerticalStackLayout>
+        </ScrollView>
         
     </ContentPage.Content>
 </ContentPage>

@@ -9,8 +9,7 @@ using CommunityToolkit.Mvvm.Input;
 
 namespace FED_Ass1.ViewModel
 {
-	[ObservableObject]
-	public partial class ListViewModel
+	public partial class ListViewModel : ObservableObject
 	{
 		public ListViewModel()
 		{

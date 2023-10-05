@@ -20,6 +20,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = FED_Ass1.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
+[C:/Users/olese/Documents/VisualStudio2022/FED/FED_Ass1/FED_Ass1/FED_Ass1/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FED_Ass1.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
 [C:/Users/olese/Documents/VisualStudio2022/FED/FED_Ass1/FED_Ass1/FED_Ass1/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FED_Ass1.Resources.Styles.Colors.xaml
