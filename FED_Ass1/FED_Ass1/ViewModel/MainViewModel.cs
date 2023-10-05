@@ -10,7 +10,7 @@ using CommunityToolkit.Mvvm.Input;
 namespace FED_Ass1.ViewModel
 {
 	[ObservableObject]
-	public partial class MainViewModel
+    public partial class MainViewModel
     //hvorfor ikke " : INotifyPropertyChanged" - er det "inkluderet" i ObservableObject?
     {
         public MainViewModel()
@@ -33,8 +33,6 @@ namespace FED_Ass1.ViewModel
         void TestBtnClick()
         {
             GlobalTest++;
-            GlobalTest = 20;
-            Console.WriteLine("Hello from TestBtnClick!");
             //TestBtn.Text = $"{GlobalTest}"; 
         }
     }

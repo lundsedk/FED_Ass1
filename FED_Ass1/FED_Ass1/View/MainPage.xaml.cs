@@ -26,13 +26,11 @@ namespace FED_Ass1.View
             else
                 CounterBtn.Text = $"Clicked {count} times";
 
-            Console.WriteLine("Hello from OnCounterClicked!");
         }
 
         private void OnTestClicked(object sender, EventArgs e)
         {
             //TestBtn.Text = "clicked";
-            Console.WriteLine("Hello from OnTestClicked!");
 
         }
     }
