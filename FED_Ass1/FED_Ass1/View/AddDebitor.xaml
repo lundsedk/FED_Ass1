@@ -11,18 +11,24 @@
                 Padding="30,0"
                 VerticalOptions="Center">
 
-
                 <Label
                     Text="Add Debitor"
                     SemanticProperties.HeadingLevel="Level1"
                     FontSize="32"
                     HorizontalOptions="Center" />
 
+                <Entry
+                    Placeholder="Name for new Debtor and press enter"
+                    MaxLength="50"
+                    ReturnCommand="{Binding NewDebtorEntryCompletedCommand}"
+                    ReturnType="Done"
+                    Style="{StaticResource CommonEntryStyle}"
+                />
 
-                
+
 
             </VerticalStackLayout>
         </ScrollView>
-        
+
     </ContentPage.Content>
 </ContentPage>
