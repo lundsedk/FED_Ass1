@@ -7,6 +7,7 @@ using System.Windows.Input;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using FED_Ass1.View;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace FED_Ass1.ViewModel
 {
@@ -14,7 +15,7 @@ namespace FED_Ass1.ViewModel
 	public partial class MainViewModel : ObservableObject
     //hvorfor ikke " : INotifyPropertyChanged" - er det "inkluderet" i ObservableObject?
     {
-        public MainViewModel()
+		public MainViewModel()
 		{
 			_database = new Database();
 			// = new Command(async () => await Shell.Current.GoToAsync(nameof(AddDebitor)));
@@ -27,7 +28,14 @@ namespace FED_Ass1.ViewModel
 		[RelayCommand]
 		private async Task GoToAddDeb()
 		{
-			await Shell.Current.GoToAsync("//AddDebitor");
+			await Shell.Current.GoToAsync(nameof(AddDebitor));
+			//await Shell.Current.GoToAsync($"{nameof(AddDebitor)}?Data={database}");
+		}
+
+		[RelayCommand]
+		private async Task GoToListDeb()
+		{
+			await Shell.Current.GoToAsync(nameof(ListDebitors));
 		}
 
 	}

@@ -666,3 +666,7 @@ C:\Home\2a - Softwaretek\SW4FED - Front-end Design\Assignment 1\FED_ASS1\FED_Ass
 C:\Home\2a - Softwaretek\SW4FED - Front-end Design\Assignment 1\FED_ASS1\FED_Ass1\FED_Ass1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Home\2a - Softwaretek\SW4FED - Front-end Design\Assignment 1\FED_ASS1\FED_Ass1\FED_Ass1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Home\2a - Softwaretek\SW4FED - Front-end Design\Assignment 1\FED_ASS1\FED_Ass1\FED_Ass1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\olese\Documents\VisualStudio2022\FED\FED_Ass1\FED_Ass1\FED_Ass1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\olese\Documents\VisualStudio2022\FED\FED_Ass1\FED_Ass1\FED_Ass1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\olese\Documents\VisualStudio2022\FED\FED_Ass1\FED_Ass1\FED_Ass1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\olese\Documents\VisualStudio2022\FED\FED_Ass1\FED_Ass1\FED_Ass1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Caching.Memory.dll

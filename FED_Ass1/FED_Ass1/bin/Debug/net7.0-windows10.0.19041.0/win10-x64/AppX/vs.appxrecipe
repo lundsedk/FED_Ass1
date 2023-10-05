@@ -29,29 +29,29 @@
     <AppXManifest Include="C:\Users\olese\Documents\VisualStudio2022\FED\FED_Ass1\FED_Ass1\FED_Ass1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-10-05T09:55:46.060</Modified>
+      <Modified>2023-10-05T10:39:59.521</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\olese\Documents\VisualStudio2022\FED\FED_Ass1\FED_Ass1\FED_Ass1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-10-05T09:51:01.642</Modified>
+      <Modified>2023-10-05T10:39:59.302</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\olese\Documents\VisualStudio2022\FED\FED_Ass1\FED_Ass1\FED_Ass1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FED_Ass1.runtimeconfig.json">
       <PackagePath>FED_Ass1.runtimeconfig.json</PackagePath>
-      <Modified>2023-10-05T07:02:33.542</Modified>
+      <Modified>2023-10-05T10:29:12.172</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\olese\Documents\VisualStudio2022\FED\FED_Ass1\FED_Ass1\FED_Ass1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FED_Ass1.dll">
       <PackagePath>FED_Ass1.dll</PackagePath>
-      <Modified>2023-10-05T09:55:44.487</Modified>
+      <Modified>2023-10-05T10:39:58.451</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\olese\Documents\VisualStudio2022\FED\FED_Ass1\FED_Ass1\FED_Ass1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>FED_Ass1.exe</PackagePath>
-      <Modified>2023-10-05T09:55:44.505</Modified>
+      <Modified>2023-10-05T10:39:58.470</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\olese\Documents\VisualStudio2022\FED\FED_Ass1\FED_Ass1\FED_Ass1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\FED_Ass1.deps.json">
       <PackagePath>FED_Ass1.deps.json</PackagePath>
-      <Modified>2023-10-05T07:51:21.685</Modified>
+      <Modified>2023-10-05T10:29:12.059</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\olese\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.10\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -820,6 +820,22 @@
     <AppxPackagedFile Include="C:\Users\olese\.nuget\packages\communitytoolkit.mvvm\8.2.1\lib\net6.0\CommunityToolkit.Mvvm.dll">
       <PackagePath>CommunityToolkit.Mvvm.dll</PackagePath>
       <Modified>2023-07-05T18:52:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\olese\.nuget\packages\microsoft.entityframeworkcore\7.0.11\lib\net6.0\Microsoft.EntityFrameworkCore.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.dll</PackagePath>
+      <Modified>2023-08-09T16:35:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\olese\.nuget\packages\microsoft.entityframeworkcore.abstractions\7.0.11\lib\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Abstractions.dll</PackagePath>
+      <Modified>2023-08-09T16:35:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\olese\.nuget\packages\microsoft.extensions.caching.abstractions\7.0.0\lib\net7.0\Microsoft.Extensions.Caching.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.Caching.Abstractions.dll</PackagePath>
+      <Modified>2022-10-18T16:15:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\olese\.nuget\packages\microsoft.extensions.caching.memory\7.0.0\lib\net7.0\Microsoft.Extensions.Caching.Memory.dll">
+      <PackagePath>Microsoft.Extensions.Caching.Memory.dll</PackagePath>
+      <Modified>2022-10-18T16:15:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\olese\.nuget\packages\microsoft.extensions.configuration\7.0.0\lib\net7.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>

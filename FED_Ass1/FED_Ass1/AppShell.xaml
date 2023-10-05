@@ -10,19 +10,7 @@
         Title="Home"
         ContentTemplate="{DataTemplate views:MainPage}"
         Route="MainPage" />
-
-    <TabBar>
-        <Tab Title="AddDebitor">
-            <ShellContent
-                ContentTemplate="{DataTemplate views:AddDebitor}"
-                Route="AddDebitors" />
-        </Tab>
-        <Tab Title="ListDebitors">
-            <ShellContent
-                ContentTemplate="{DataTemplate views:ListDebitors}"
-                Route="ListDebitors" />
-        </Tab>
-    </TabBar>
+    
 </Shell>
     
     
