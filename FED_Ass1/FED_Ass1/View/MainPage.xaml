@@ -40,7 +40,7 @@
                 x:Name="TestBtn"
                 Text="{Binding GlobalTest, Mode=OneWay}"
                 SemanticProperties.Hint="Kristians testknap"
-                Command="{Binding TestBtnClickCommand}"
+                Command="{Binding TestBtnClick}"
                 HorizontalOptions="Center" />
 
         </VerticalStackLayout>
