@@ -2,8 +2,13 @@
 
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="FED_Ass1.View.ListDebitors">
+             x:Class="FED_Ass1.View.ListDebitors"
+             xmlns:viewmodels="clr-namespace:FED_Ass1.ViewModel">
+        
     <ContentPage.Content>
+        <Grid>
+            <Label Text="hej"/>
+        </Grid>
         
     </ContentPage.Content>
 </ContentPage>

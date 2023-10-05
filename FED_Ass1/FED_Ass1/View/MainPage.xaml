@@ -20,8 +20,14 @@
 
             <Button
                Text="Add New Debitor"
-                SemanticProperties.Hint="Add New Debitor"
+                SemanticProperties.Hint="Add"
                 Command="{Binding GoToAddDebCommand}"
+                HorizontalOptions="Center" />
+
+            <Button
+                Text="List of debits for one debtor"
+                SemanticProperties.Hint="List"
+                Command="{Binding GoToListDebCommand}"
                 HorizontalOptions="Center" />
 
         </VerticalStackLayout>

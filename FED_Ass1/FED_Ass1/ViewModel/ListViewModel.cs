@@ -11,10 +11,12 @@ namespace FED_Ass1.ViewModel
 {
 	public partial class ListViewModel : ObservableObject
 	{
+		public ObservableCollection<Transaction> Transactions { get; set; } = new();
 		public ListViewModel()
 		{
 			
-			// Tilføj mere her
 		}
+
+
 	}
 }

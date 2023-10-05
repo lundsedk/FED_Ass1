@@ -8,6 +8,7 @@ using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using FED_Ass1.View;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
+//using Windows.ApplicationModel;
 
 namespace FED_Ass1.ViewModel
 {
@@ -18,13 +19,10 @@ namespace FED_Ass1.ViewModel
 		public MainViewModel()
 		{
 			_database = new Database();
-			// = new Command(async () => await Shell.Current.GoToAsync(nameof(AddDebitor)));
 		}
 
 		public ObservableCollection<DebtBook> Debtors { get; set; } = new();
         public ObservableCollection<Transaction> Transactions { get; set; } = new();
-
-        private readonly Database _database;
 
 		[RelayCommand]
 		private async Task GoToAddDeb()
@@ -39,5 +37,6 @@ namespace FED_Ass1.ViewModel
 			await Shell.Current.GoToAsync(nameof(ListDebitors));
 		}
 
+		private readonly Database _database;
 	}
 }

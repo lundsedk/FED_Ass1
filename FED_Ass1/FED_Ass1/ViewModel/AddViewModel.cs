@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 
 namespace FED_Ass1.ViewModel
 {
-	
 	public partial class AddViewModel : ObservableObject
 	{
 		public AddViewModel()
